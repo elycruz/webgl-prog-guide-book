@@ -16,13 +16,13 @@ Put each example into a chapter view;  E.g.,
 Dev scripts etc.
 
 ### Main dev commands
-1.  `yarn install`
-2.  `yarn start` (for react-app) and
-3.  `yarn watch-css` for watching sass files.
+1.  `pnpm install`
+2.  `pnpm start` (for react-app) and
+3.  `pnpm watch-css` for watching sass files.
 
 ### Dev scripts
 #### On Windows
-If `yarn` is installed run 'start.bat'
+If `pnpm` is installed run 'start.bat'
 
 #### On Ubuntu/gnome-terminal
-If `yarn` is installed `sh start.sh`
+If `pnpm` is installed `sh start.sh`
