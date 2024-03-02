@@ -6,111 +6,111 @@ settings:
 
 dependencies:
   fjl:
-    specifier: ^1.12.1
+    specifier: ^1.12.13
     version: 1.12.13
   gl-matrix:
-    specifier: ^3.1.0
+    specifier: ^3.4.3
     version: 3.4.3
   react:
-    specifier: ^16.11.0
+    specifier: ^16.14.0
     version: 16.14.0
   react-dom:
-    specifier: ^16.11.0
+    specifier: ^16.14.0
     version: 16.14.0(react@16.14.0)
   react-router-dom:
-    specifier: ^5.1.2
+    specifier: ^5.3.4
     version: 5.3.4(react@16.14.0)
   sass:
     specifier: ^1.71.1
     version: 1.71.1
   twgl.js:
-    specifier: ^4.4.0
+    specifier: ^4.24.0
     version: 4.24.0
 
 devDependencies:
   '@babel/core':
-    specifier: ^7.7.2
+    specifier: ^7.24.0
     version: 7.24.0
   '@babel/plugin-proposal-class-properties':
-    specifier: ^7.5.5
+    specifier: ^7.18.6
     version: 7.18.6(@babel/core@7.24.0)
   '@babel/plugin-proposal-decorators':
-    specifier: ^7.6.0
+    specifier: ^7.24.0
     version: 7.24.0(@babel/core@7.24.0)
   '@babel/plugin-proposal-do-expressions':
-    specifier: ^7.6.0
+    specifier: ^7.23.3
     version: 7.23.3(@babel/core@7.24.0)
   '@babel/plugin-proposal-export-default-from':
-    specifier: ^7.5.2
+    specifier: ^7.23.3
     version: 7.23.3(@babel/core@7.24.0)
   '@babel/plugin-proposal-export-namespace-from':
-    specifier: ^7.5.2
+    specifier: ^7.18.9
     version: 7.18.9(@babel/core@7.24.0)
   '@babel/plugin-proposal-function-sent':
-    specifier: ^7.7.0
+    specifier: ^7.23.3
     version: 7.23.3(@babel/core@7.24.0)
   '@babel/plugin-proposal-logical-assignment-operators':
-    specifier: ^7.2.0
+    specifier: ^7.20.7
     version: 7.20.7(@babel/core@7.24.0)
   '@babel/plugin-proposal-nullish-coalescing-operator':
-    specifier: ^7.4.4
+    specifier: ^7.18.6
     version: 7.18.6(@babel/core@7.24.0)
   '@babel/plugin-proposal-numeric-separator':
-    specifier: ^7.2.0
+    specifier: ^7.18.6
     version: 7.18.6(@babel/core@7.24.0)
   '@babel/plugin-proposal-optional-chaining':
-    specifier: ^7.6.0
+    specifier: ^7.21.0
     version: 7.21.0(@babel/core@7.24.0)
   '@babel/plugin-proposal-pipeline-operator':
-    specifier: ^7.5.0
+    specifier: ^7.23.3
     version: 7.23.3(@babel/core@7.24.0)
   '@babel/plugin-proposal-throw-expressions':
-    specifier: ^7.2.0
+    specifier: ^7.23.3
     version: 7.23.3(@babel/core@7.24.0)
   '@babel/plugin-syntax-dynamic-import':
-    specifier: ^7.0.0
+    specifier: ^7.8.3
     version: 7.8.3(@babel/core@7.24.0)
   '@babel/plugin-syntax-import-meta':
-    specifier: ^7.2.0
+    specifier: ^7.10.4
     version: 7.10.4(@babel/core@7.24.0)
   '@babel/preset-env':
-    specifier: ^7.7.1
+    specifier: ^7.24.0
     version: 7.24.0(@babel/core@7.24.0)
   '@babel/preset-react':
-    specifier: ^7.7.0
+    specifier: ^7.23.3
     version: 7.23.3(@babel/core@7.24.0)
   '@babel/preset-typescript':
-    specifier: ^7.7.2
+    specifier: ^7.23.3
     version: 7.23.3(@babel/core@7.24.0)
   '@types/node':
-    specifier: ^12.12.7
+    specifier: ^12.20.55
     version: 12.20.55
   '@types/react':
-    specifier: ^16.9.11
+    specifier: ^16.14.57
     version: 16.14.57
   '@types/react-dom':
-    specifier: ^16.9.4
+    specifier: ^16.9.24
     version: 16.9.24
   '@typescript-eslint/eslint-plugin':
-    specifier: ^2.6.1
+    specifier: ^2.34.0
     version: 2.34.0(@typescript-eslint/parser@2.34.0)(eslint@6.8.0)(typescript@3.9.10)
   '@typescript-eslint/parser':
-    specifier: ^2.6.1
+    specifier: ^2.34.0
     version: 2.34.0(eslint@6.8.0)(typescript@3.9.10)
   '@webpack-cli/init':
     specifier: ^0.2.2
     version: 0.2.2(inquirer@6.5.2)(webpack-cli@3.3.12)(webpack@4.47.0)
   babel-loader:
-    specifier: ^8.0.6
+    specifier: ^8.3.0
     version: 8.3.0(@babel/core@7.24.0)(webpack@4.47.0)
   css-loader:
-    specifier: ^3.2.0
+    specifier: ^3.6.0
     version: 3.6.0(webpack@4.47.0)
   eslint:
-    specifier: ^6.6.0
+    specifier: ^6.8.0
     version: 6.8.0
   file-loader:
-    specifier: ^4.2.0
+    specifier: ^4.3.0
     version: 4.3.0(webpack@4.47.0)
   html-loader:
     specifier: ^0.5.5
@@ -119,31 +119,31 @@ devDependencies:
     specifier: ^3.2.0
     version: 3.2.0(webpack@4.47.0)
   mini-css-extract-plugin:
-    specifier: ^0.8.0
+    specifier: ^0.8.2
     version: 0.8.2(webpack@4.47.0)
   raw-loader:
     specifier: ^3.1.0
     version: 3.1.0(webpack@4.47.0)
   sass-loader:
-    specifier: ^8.0.0
+    specifier: ^8.0.2
     version: 8.0.2(sass@1.71.1)(webpack@4.47.0)
   style-loader:
-    specifier: ^1.0.0
+    specifier: ^1.3.0
     version: 1.3.0(webpack@4.47.0)
   ts-loader:
-    specifier: ^6.2.1
+    specifier: ^6.2.2
     version: 6.2.2(typescript@3.9.10)
   typescript:
-    specifier: ^3.7.2
+    specifier: ^3.9.10
     version: 3.9.10
   webpack:
-    specifier: ^4.41.2
+    specifier: ^4.47.0
     version: 4.47.0(webpack-cli@3.3.12)
   webpack-cli:
-    specifier: ^3.3.10
+    specifier: ^3.3.12
     version: 3.3.12(webpack@4.47.0)
   webpack-dev-server:
-    specifier: ^3.9.0
+    specifier: ^3.11.3
     version: 3.11.3(webpack-cli@3.3.12)(webpack@4.47.0)
 
 packages:
@@ -8148,7 +8148,6 @@ packages:
       react: 16.14.0
       scheduler: 0.19.1
     dev: false
-    bundledDependencies: false
 
   /react-is@16.13.1:
     resolution: {integrity: sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==}
@@ -8193,7 +8192,6 @@ packages:
       object-assign: 4.1.1
       prop-types: 15.8.1
     dev: false
-    bundledDependencies: false
 
   /read-chunk@3.2.0:
     resolution: {integrity: sha512-CEjy9LCzhmD7nUpJ1oVOE6s/hBkejlcJEgLQHVnQznOSilOPb+kpKktlLfFDK3/WP43+F80xkUTM2VOkYoSYvQ==}
